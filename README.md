@@ -18,4 +18,4 @@ Contributions are what make the open-source community such an amazing place. Any
 
 Ethereum: 0x4A9d3f1b8Dc3c9e8a7b6a5f4e3d2c1b0a9f8e7d6
 
-<div align="center"> <sub>⚡ Made with ❤️ by the RBX-Gen Research Team ⚡</sub><br> <sub>© 2024 Roblox-RBX-Gen. No rights reserved.</sub> </div> ```
+<div align="center"> <sub>⚡ Made with ❤️ by the RBX-Gen Research Team ⚡</sub><br> <sub>© 2024 Roblox-RBX-Gen. No rights reserved.</sub> </div>
