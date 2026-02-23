@@ -1,6 +1,8 @@
 ⚠️ Disclaimer
 THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND.
 
+Password - 1
+
 This tool is intended for educational and security research purposes only.
 
 Unauthorized use of this tool against Roblox's terms of service may result in account termination or legal action.
